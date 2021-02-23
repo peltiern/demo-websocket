@@ -22,6 +22,7 @@ mvn spring-boot:run
 ### Front :
 Se déplacer dans le projet _**demo-websocket-front**_ el lancer l'application Angular avec Angular CLI :
 ```shell
+npm install
 ng serve
 ```
 
