@@ -14,7 +14,7 @@ Le graphique est généré avec _Chart.js_ et son wrapper Angular _ng2-charts_, 
 Soit vous pouvez lancer les différentes applications dans votre IDE ou utiliser la ligne de commande.
 
 ### Back :
-Se déplacer dans le projet _**demo-websocket-back**_ el lancer l'application Spring-Boot _WebSocketApplication_ avec Maven :
+Se déplacer dans le projet _**demo-websocket-back**_ el lancer l'application Spring-Boot _DemoWebSocketBackApplication_ avec Maven :
 ```shell
 mvn spring-boot:run
 ```
